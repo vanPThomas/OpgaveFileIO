@@ -1,0 +1,128 @@
+Ansembroekstraat                                                                                                                
+Asbronstraat                                                                                                                    
+August Cuppensstraat                                                                                                            
+Bakelstraat                                                                                                                     
+Barenbergseweg                                                                                                                  
+Beekstraat                                                                                                                      
+Begijnhofplein                                                                                                                  
+Bergstraat                                                                                                                      
+Berkenstraat                                                                                                                    
+Betserbaan                                                                                                                      
+Beukenstraat                                                                                                                    
+Bloemendaalstraat                                                                                                               
+Bosstraat                                                                                                                       
+Bovenstraat                                                                                                                     
+Breedvenstraat                                                                                                                  
+Broekstraat                                                                                                                     
+Capucienenstraat                                                                                                                
+Corneliusstraat                                                                                                                 
+De Nieuwe Gracht                                                                                                                
+De Voorste Nieuwe Gracht                                                                                                        
+Decosterstraat                                                                                                                  
+Dennenstraat                                                                                                                    
+Diestersteenweg                                                                                                                 
+Dieststraat                                                                                                                     
+Doelstraat                                                                                                                      
+Donderbosstraat                                                                                                                 
+Dorpsstraat                                                                                                                     
+Driesstraat                                                                                                                     
+Eksterhoekstraat                                                                                                                
+Ertsenrijkstraat                                                                                                                
+Firmin Jacobslaan                                                                                                               
+Fonteinstraat                                                                                                                   
+Galgebergstraat                                                                                                                 
+Gebrandhofstraat                                                                                                                
+Gemengde Brigadestraat                                                                                                          
+Generaal de Wittestraat                                                                                                         
+Gennepstraat                                                                                                                    
+Gidsenstraat                                                                                                                    
+Gieterijstraat                                                                                                                  
+Goerebroekstraat                                                                                                                
+Hagelandstraat                                                                                                                  
+Halensestraat                                                                                                                   
+Hazenbroekstraat                                                                                                                
+Heesstraat                                                                                                                      
+Heidestraat                                                                                                                     
+Hertenrodestraat                                                                                                                
+Holakenstraat                                                                                                                   
+Holeikstraat                                                                                                                    
+Houtsestraat                                                                                                                    
+Ijzerwinningstraat                                                                                                              
+Industriepark                                                                                                                   
+Industriestraat                                                                                                                 
+Kanonniersstraat                                                                                                                
+Karestraat                                                                                                                      
+Kauwplasstraat                                                                                                                  
+Keerstraat                                                                                                                      
+Keibergstraat                                                                                                                   
+Kerkstraat                                                                                                                      
+Koekoeklaan                                                                                                                     
+Koepoortstraat                                                                                                                  
+Koffiestraat                                                                                                                    
+Kolenbergstraat                                                                                                                 
+Kortestraat                                                                                                                     
+Kruisstraat                                                                                                                     
+Lanciersstraat                                                                                                                  
+Liebroekstraat                                                                                                                  
+Lindestraat                                                                                                                     
+Liniestraat                                                                                                                     
+Linkhoutsestraat                                                                                                                
+Lobosstraat                                                                                                                     
+Loksbergenstraat                                                                                                                
+Lummensestraat                                                                                                                  
+Mannekenshaagstraat                                                                                                             
+Markt                                                                                                                           
+Marktstraat                                                                                                                     
+Meldertsestraat                                                                                                                 
+Molenstraat                                                                                                                     
+Molenweg                                                                                                                        
+Mosstraat                                                                                                                       
+Nederstraat                                                                                                                     
+Ottenbergstraat                                                                                                                 
+Oude Baan                                                                                                                       
+Oude Diestsebaan                                                                                                                
+Oude Leuvensebaan                                                                                                               
+Oude Schansstraat                                                                                                               
+Pandputweg                                                                                                                      
+Panovenstraat                                                                                                                   
+Pijpenpoelstraat                                                                                                                
+Raubrandplein                                                                                                                   
+Rotemstraat                                                                                                                     
+Rozedelstraat                                                                                                                   
+Rozenstraat                                                                                                                     
+Schansstraat                                                                                                                    
+Schomstraat                                                                                                                     
+Schoolstraat                                                                                                                    
+Singellaan                                                                                                                      
+Sint-Barbaraplein                                                                                                               
+Sint-Jansbergstraat                                                                                                             
+Spoorwegstraat                                                                                                                  
+Sportlaan                                                                                                                       
+Staatsbaan                                                                                                                      
+Stadsbeemd                                                                                                                      
+Stationsstraat                                                                                                                  
+Steenbakkersstraat                                                                                                              
+Steenbergstraat                                                                                                                 
+Stokstraat                                                                                                                      
+Struikstraat                                                                                                                    
+Thibautstraat                                                                                                                   
+Tuinwijkstraat                                                                                                                  
+van Zurpeledijk                                                                                                                 
+Velpenstraat                                                                                                                    
+Verbindingsweg                                                                                                                  
+Vinnenhoekstraat                                                                                                                
+Vossekotstraat                                                                                                                  
+Vroentestraat                                                                                                                   
+Weyerstraat                                                                                                                     
+Wijpenbergweg                                                                                                                   
+Winkelbeekplein                                                                                                                 
+Winkelbeekstraat                                                                                                                
+Zagerijplein                                                                                                                    
+Zandstraat                                                                                                                      
+Zelemstraat                                                                                                                     
+Zelkstraat                                                                                                                      
+Zepbrugstraat                                                                                                                   
+Zepstraat                                                                                                                       
+Zilveren-Helmenstraat                                                                                                           
+Zittaardstraat                                                                                                                  
+Zwarte Duivelsstraat                                                                                                            

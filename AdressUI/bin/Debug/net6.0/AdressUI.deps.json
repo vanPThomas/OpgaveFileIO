@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdressUI/1.0.0": {
+        "dependencies": {
+          "AdressDataLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AdressUI.dll": {}
+        }
+      },
+      "AdressDataLibrary/1.0.0": {
+        "runtime": {
+          "AdressDataLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdressUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdressDataLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,338 @@
+'t Serclaeslei                                                                                                                  
+4 St.-Job-in-'t-Goor                                                                                                            
+Acacialei                                                                                                                       
+Aerdenlei                                                                                                                       
+Alfredlei                                                                                                                       
+Annadreef                                                                                                                       
+Antoinettalei                                                                                                                   
+Antwerpenlei                                                                                                                    
+Armand Reusensplein                                                                                                             
+Augustijnslei                                                                                                                   
+Azalealaan                                                                                                                      
+Baillet-Latourlei                                                                                                               
+Beekstraat                                                                                                                      
+Beemdenstraat                                                                                                                   
+Bergsebaan                                                                                                                      
+Bergstraat                                                                                                                      
+Berrélei                                                                                                                        
+Bethaniëlei                                                                                                                     
+Beukenbosdreef                                                                                                                  
+Beukendreef                                                                                                                     
+Bevrijdingslei                                                                                                                  
+Bierwertslei                                                                                                                    
+Bijsterveld                                                                                                                     
+Binnenhof                                                                                                                       
+Bisschoppenhoflei                                                                                                               
+Bloemaard                                                                                                                       
+Bloemenlei                                                                                                                      
+Bondgenotenlei                                                                                                                  
+Bosaard                                                                                                                         
+Bosaardplein                                                                                                                    
+Boskapellei                                                                                                                     
+Bossaersstraat                                                                                                                  
+Bosuildreef                                                                                                                     
+Braam                                                                                                                           
+Brechtsebaan                                                                                                                    
+Bredabaan                                                                                                                       
+Bredestraat                                                                                                                     
+Broomansakker                                                                                                                   
+Carolinalei                                                                                                                     
+Castel del Vinolei                                                                                                              
+Charleslei                                                                                                                      
+Charlottalei                                                                                                                    
+Claesstraat                                                                                                                     
+d'Oultremontlei                                                                                                                 
+De Aard                                                                                                                         
+de Beelenlei                                                                                                                    
+de Borrekenslei                                                                                                                 
+de Burletheide                                                                                                                  
+de Caterslei                                                                                                                    
+De Dries                                                                                                                        
+De Gagel                                                                                                                        
+De Geeststraat                                                                                                                  
+De Heuvels                                                                                                                      
+de Lannoylei                                                                                                                    
+De Mortel                                                                                                                       
+De Phillipen Aard                                                                                                               
+de Pretlei                                                                                                                      
+de Prolistraat                                                                                                                  
+De Romboutweg                                                                                                                   
+De Route                                                                                                                        
+De Tomermaat                                                                                                                    
+De Vis                                                                                                                          
+De Vroente                                                                                                                      
+De Wandeleerlei                                                                                                                 
+De Wilgaart                                                                                                                     
+De Zeut                                                                                                                         
+De Zwaan                                                                                                                        
+della Faillestraat                                                                                                              
+Dennenlei                                                                                                                       
+Diksmuidelei                                                                                                                    
+Distel                                                                                                                          
+Doelhof                                                                                                                         
+Donkerdreef                                                                                                                     
+Donkseinde                                                                                                                      
+Donksesteenweg                                                                                                                  
+Door Verstraetelei                                                                                                              
+Dopheidelaan                                                                                                                    
+Dr. Roosensplein                                                                                                                
+du Boislei                                                                                                                      
+Dullingen                                                                                                                       
+Durentijdlei                                                                                                                    
+Eikendreef                                                                                                                      
+Eikenlei                                                                                                                        
+Eksterlaan                                                                                                                      
+Elisalei                                                                                                                        
+Elshoutbaan                                                                                                                     
+Emiellei                                                                                                                        
+Emmalei                                                                                                                         
+Ericalaan                                                                                                                       
+Essensteenweg                                                                                                                   
+Fabriekstraat                                                                                                                   
+Floris Verbraekenlei                                                                                                            
+Fortsebaan                                                                                                                      
+Frilinglei                                                                                                                      
+Gabriëllelei                                                                                                                    
+Galgehoeveplein                                                                                                                 
+Garçondreef                                                                                                                     
+Gaspeldoornlaan                                                                                                                 
+Gasthuisdreef                                                                                                                   
+Gemeentepark                                                                                                                    
+Generaal Lemanlei                                                                                                               
+Generaal Mercierlei                                                                                                             
+Gezondheidslei                                                                                                                  
+Goordijk                                                                                                                        
+Graaf Reusensdreef                                                                                                              
+Grasdries                                                                                                                       
+Groot Schietvelddreef                                                                                                           
+Grote Heidedreef                                                                                                                
+Grotlei                                                                                                                         
+Guylei                                                                                                                          
+Guyotdreef                                                                                                                      
+H. De Winterlei                                                                                                                 
+Halenlei                                                                                                                        
+Hanendreef                                                                                                                      
+Hanoteaulei                                                                                                                     
+Heibos                                                                                                                          
+Heideaard                                                                                                                       
+Heislag                                                                                                                         
+Heislagsebaan                                                                                                                   
+Helena Thyslei                                                                                                                  
+Helleweide                                                                                                                      
+Hemelakkers                                                                                                                     
+Hemeldreef                                                                                                                      
+Hemelhoevedreef                                                                                                                 
+Hendrik Luytenplein                                                                                                             
+Henrilei                                                                                                                        
+Hensbergelei                                                                                                                    
+Hermelijndreef                                                                                                                  
+Het Bunder                                                                                                                      
+Het Gemaal                                                                                                                      
+Het Heiken                                                                                                                      
+Het Innemen                                                                                                                     
+Het Leeg                                                                                                                        
+Het Venneke                                                                                                                     
+Hofstraat                                                                                                                       
+Hoge Akker                                                                                                                      
+Hoge Kaart                                                                                                                      
+Hoge Weg                                                                                                                        
+Holleweg                                                                                                                        
+Hondjesberglei                                                                                                                  
+Hoogboomsteenweg                                                                                                                
+Hoogbos                                                                                                                         
+Hoogstraat                                                                                                                      
+Houtkaai                                                                                                                        
+Hulshout                                                                                                                        
+Ieperlei                                                                                                                        
+IJzerlei                                                                                                                        
+Ijzermaalweg                                                                                                                    
+Isenbaertlei                                                                                                                    
+Jacobuslei                                                                                                                      
+Jagersdreef                                                                                                                     
+Jos Nuytsdreef                                                                                                                  
+Julialei                                                                                                                        
+Kaartse bossen                                                                                                                  
+Kaartseplein                                                                                                                    
+Kaarttuin                                                                                                                       
+Kamillelaan                                                                                                                     
+Kamp                                                                                                                            
+Kamp (Kwartier Noord)                                                                                                           
+Kamp (Kwartier Oost)                                                                                                            
+Kamp (Kwartier West)                                                                                                            
+Kampelaar                                                                                                                       
+Kantienlei                                                                                                                      
+Kapellei                                                                                                                        
+Kapelsesteenweg                                                                                                                 
+Kardinaal Cardijnplein                                                                                                          
+Kastanjelei                                                                                                                     
+Kasteellei                                                                                                                      
+Kenislei                                                                                                                        
+Kerkedreef                                                                                                                      
+Klaprooslaan                                                                                                                    
+Klaverheide                                                                                                                     
+Klein Hoefblad                                                                                                                  
+Kleine Heide                                                                                                                    
+Kleine Mik                                                                                                                      
+Koekoeklaan                                                                                                                     
+Koersdreef                                                                                                                      
+Koestraat                                                                                                                       
+Koloniestraat                                                                                                                   
+Koninginnelei                                                                                                                   
+Koningsakker                                                                                                                    
+Koningslei                                                                                                                      
+Korenbloemlaan                                                                                                                  
+Korenlaan                                                                                                                       
+Kortestraat                                                                                                                     
+Krijnlaan                                                                                                                       
+Kruimelaar                                                                                                                      
+Laagland                                                                                                                        
+Lage Kaart                                                                                                                      
+Lange dreef                                                                                                                     
+Langestraat                                                                                                                     
+Lansiersdreef                                                                                                                   
+Leemputweg                                                                                                                      
+Leenheide                                                                                                                       
+Leeuwenstraat                                                                                                                   
+Leeuweriklaan                                                                                                                   
+Legedreef                                                                                                                       
+Lemmélei                                                                                                                        
+Leopoldslei                                                                                                                     
+Licht Vliegwezenlaan                                                                                                            
+Linthoutlei                                                                                                                     
+Listse Voetweg                                                                                                                  
+Louislei                                                                                                                        
+Ludgardislei                                                                                                                    
+Luiklei                                                                                                                         
+Luisterborg                                                                                                                     
+Magdalenalei                                                                                                                    
+Mahoniadreef                                                                                                                    
+Mariettalei                                                                                                                     
+Martouginlei                                                                                                                    
+Max Hermanlei                                                                                                                   
+Meeslaan                                                                                                                        
+Melde                                                                                                                           
+Merellaan                                                                                                                       
+Michielssendreef                                                                                                                
+Middelkaart                                                                                                                     
+Mikhof                                                                                                                          
+Miksebaan                                                                                                                       
+Miksebeekstraat                                                                                                                 
+Mikseheide                                                                                                                      
+Mishagen                                                                                                                        
+Moerbeienlaan                                                                                                                   
+Molenheide                                                                                                                      
+Molenveld                                                                                                                       
+Molenweg                                                                                                                        
+Molenzicht                                                                                                                      
+Mollei                                                                                                                          
+Moretuslei                                                                                                                      
+Morgenster                                                                                                                      
+Nachtegaallaan                                                                                                                  
+Neervelden                                                                                                                      
+Nieuwe Heide                                                                                                                    
+Nieuwpoortlei                                                                                                                   
+Nothomblei                                                                                                                      
+Olmelei                                                                                                                         
+Onafhankelijkheidslei                                                                                                           
+Onderheide                                                                                                                      
+Oude Baan                                                                                                                       
+Oude Bergstraat                                                                                                                 
+Oude Gracht                                                                                                                     
+Oude-Hoeveweg                                                                                                                   
+Oudstrijderslei                                                                                                                 
+Papestraat                                                                                                                      
+Parklei                                                                                                                         
+Passendalestraat                                                                                                                
+Pastorijstraat                                                                                                                  
+Paulusstraat                                                                                                                    
+Pauwelslei                                                                                                                      
+Peerdbosdreef                                                                                                                   
+Peter Benoitlei                                                                                                                 
+Pinksterbloem                                                                                                                   
+Plataandreef                                                                                                                    
+Ploegsebaan                                                                                                                     
+Prins Albertlei                                                                                                                 
+Prins Karellei                                                                                                                  
+Prins Kavelhof                                                                                                                  
+Prins Kavellei                                                                                                                  
+Prins van Oranjestraat                                                                                                          
+Prinses Marie Joséelei                                                                                                          
+Prinsheide                                                                                                                      
+Reeëndreef                                                                                                                      
+Reinaertlei                                                                                                                     
+Reintjesbeek                                                                                                                    
+Rerum Novarumlei                                                                                                                
+Rochuslei                                                                                                                       
+Rode Kruislei                                                                                                                   
+Rozenlaan                                                                                                                       
+Ruiterijschool                                                                                                                  
+Ruiterweg                                                                                                                       
+Rustoordlei                                                                                                                     
+Schagendreef                                                                                                                    
+Schansstraat                                                                                                                    
+Schomheide                                                                                                                      
+Schoolstraat                                                                                                                    
+Schout De Moorstraat                                                                                                            
+Simonslei                                                                                                                       
+Sint Antoniuslei                                                                                                                
+Sint Huibrechtlei                                                                                                               
+Sint Jobsesteenweg                                                                                                              
+Sionkloosterlaan                                                                                                                
+Sneeuwbesdreef                                                                                                                  
+Sparrenlaan                                                                                                                     
+Spechtlaan                                                                                                                      
+Sportendreef                                                                                                                    
+Struikenlaan                                                                                                                    
+Stuiversvelden                                                                                                                  
+Tabbe gat                                                                                                                       
+Ter Borcht                                                                                                                      
+Ternincklei                                                                                                                     
+Tolbareel                                                                                                                       
+Truyensstraat                                                                                                                   
+Turfaard                                                                                                                        
+Vaandelfront                                                                                                                    
+Vagevuurvelden                                                                                                                  
+Valeriaan                                                                                                                       
+Van de Wiellei                                                                                                                  
+Van Gamerenlei                                                                                                                  
+Van Halmaelelei                                                                                                                 
+van Havreblok                                                                                                                   
+Van Hemelrijcklei                                                                                                               
+Van Kessellei                                                                                                                   
+Varendreef                                                                                                                      
+Veldstraat                                                                                                                      
+Verbrand bos                                                                                                                    
+Verhoevenlei                                                                                                                    
+Vesaliusdreef                                                                                                                   
+Vijverlei                                                                                                                       
+Vijverpad                                                                                                                       
+Vinklaan                                                                                                                        
+Vliegveldlaan                                                                                                                   
+Vogelzangdreef                                                                                                                  
+Vosholdal                                                                                                                       
+Voshollei                                                                                                                       
+Vredelei                                                                                                                        
+Vriesdonkakker                                                                                                                  
+Vriesedonklei                                                                                                                   
+Vrijwilligerslei                                                                                                                
+Vuurkruisenlei                                                                                                                  
+Waterstraat                                                                                                                     
+Watertoren                                                                                                                      
+Weegbree                                                                                                                        
+Weg van de Hoge brug                                                                                                            
+Weg van pen                                                                                                                     
+Werverbos                                                                                                                       
+Wilg                                                                                                                            
+Willebeek                                                                                                                       
+Wipstraat                                                                                                                       
+Wirkenlei                                                                                                                       
+Withofdreef                                                                                                                     
+Zand                                                                                                                            
+Zegelei                                                                                                                         
+Zegeplein                                                                                                                       
+Zegersdreef                                                                                                                     
+Zijdestraat                                                                                                                     
+Zilverberkenlei                                                                                                                 
+Zwaantjeslei                                                                                                                    
+Zwembadweg                                                                                                                      
+Zwemdoklei                                                                                                                      

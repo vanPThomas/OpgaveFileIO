@@ -1,0 +1,95 @@
+2de Genielaan                                                                                                                   
+Albert Dondeynestraat                                                                                                           
+Alfons Van Heelaan                                                                                                              
+Ashoop                                                                                                                          
+Bernardplaatsstraat                                                                                                             
+Blauwvoet                                                                                                                       
+Boshoek                                                                                                                         
+Brabanthoek                                                                                                                     
+Breydelstraat                                                                                                                   
+Broekstraat                                                                                                                     
+Bulskampstraat                                                                                                                  
+Burgemeester Pietersstraat                                                                                                      
+Burgweg                                                                                                                         
+Clamarastraat                                                                                                                   
+Collaertshillestraat                                                                                                            
+Doelweg                                                                                                                         
+Dorpplaats                                                                                                                      
+Drie Grachten                                                                                                                   
+Fintele                                                                                                                         
+Gapaard                                                                                                                         
+Gasthuisstraat                                                                                                                  
+Gravestraat                                                                                                                     
+Groenendijkstraat                                                                                                               
+Groenestraat                                                                                                                    
+Halve Reningestraat                                                                                                             
+Hazewind                                                                                                                        
+Hoflandstraat                                                                                                                   
+Hogebrugstraat                                                                                                                  
+Hullebrugweg                                                                                                                    
+Ieperstraat                                                                                                                     
+Kapt. Fremaultstraat                                                                                                            
+Kasteelstraat                                                                                                                   
+Kerkstraat                                                                                                                      
+Ketsedijk                                                                                                                       
+Kiviethoek                                                                                                                      
+Kloefhoek                                                                                                                       
+Kloosterstraat                                                                                                                  
+Knokke                                                                                                                          
+Kruisstraat                                                                                                                     
+Lindesteenweg                                                                                                                   
+Lindestraat                                                                                                                     
+Lobrug                                                                                                                          
+Lolege                                                                                                                          
+Lostraat                                                                                                                        
+Mariastraat                                                                                                                     
+Markt                                                                                                                           
+Middelstraat                                                                                                                    
+Molenhoek                                                                                                                       
+Molenstraat                                                                                                                     
+Nieuwstraat                                                                                                                     
+Noordhoek                                                                                                                       
+Noordooststraat                                                                                                                 
+Noordschoteplein                                                                                                                
+Noordstraat                                                                                                                     
+Noordweststraat                                                                                                                 
+Omloop Noord                                                                                                                    
+Oostpoeselstraat                                                                                                                
+Ooststraat                                                                                                                      
+Oostvleterenstraat                                                                                                              
+Oude Pereboomstraat                                                                                                             
+Oude-eiermarkt                                                                                                                  
+Peperstraat                                                                                                                     
+Pereboom                                                                                                                        
+Pollinkhovestraat                                                                                                               
+Pypegale                                                                                                                        
+Rabbelaresteenweg                                                                                                               
+Reningesteenweg                                                                                                                 
+Rietgracht                                                                                                                      
+Rijsdreef                                                                                                                       
+Romanestraat                                                                                                                    
+Rozendale                                                                                                                       
+Rozestraat                                                                                                                      
+Schaerdeke                                                                                                                      
+Sint-Corynstraat                                                                                                                
+Sint-Maarten                                                                                                                    
+Steenstraat                                                                                                                     
+Tempelare                                                                                                                       
+Tommestraat                                                                                                                     
+Turkeyen                                                                                                                        
+Vaartdijk                                                                                                                       
+Vaartstraat                                                                                                                     
+Vagelandstraat                                                                                                                  
+Veurnesteenweg                                                                                                                  
+Vrijestraat                                                                                                                     
+Wandelaersdreef                                                                                                                 
+Waterhoek                                                                                                                       
+Westpoeselstraat                                                                                                                
+Weststraat                                                                                                                      
+Willem Van Loolaan                                                                                                              
+Woestenstraat                                                                                                                   
+Zandfoortstraat                                                                                                                 
+Zavelhoek                                                                                                                       
+Zuidschotestraat                                                                                                                
+Zuidstraat                                                                                                                      
+Zwartestraat                                                                                                                    

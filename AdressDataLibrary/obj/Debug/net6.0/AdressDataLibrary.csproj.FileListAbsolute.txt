@@ -1,0 +1,12 @@
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\bin\Debug\net6.0\AdressDataLibrary.deps.json
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\bin\Debug\net6.0\AdressDataLibrary.dll
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\bin\Debug\net6.0\AdressDataLibrary.pdb
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.csproj.AssemblyReference.cache
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.AssemblyInfoInputs.cache
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.AssemblyInfo.cs
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.csproj.CoreCompileInputs.cache
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.dll
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\refint\AdressDataLibrary.dll
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\AdressDataLibrary.pdb
+C:\additions\hogent\pg\workspace\OpgaveFileIO\AdressDataLibrary\obj\Debug\net6.0\ref\AdressDataLibrary.dll
